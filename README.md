@@ -1,4 +1,4 @@
-# Hello, world 🚀
+# Overview 🚀
 
 I'm a dedicated software developer with interests in machine learning, computer vision, and embedded systems. My curiosity also extends to exploring finance and full-stack mobile application development.
 
