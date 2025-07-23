@@ -1,49 +1,54 @@
-# Overview 🚀
+<!-- polished‑mode: ON ⚡ -->
 
-I'm a dedicated software developer with interests in machine learning, computer vision, and embedded systems. My curiosity also extends to exploring finance and full-stack mobile application development.
-
-Whether it's discerning patterns in data, developing vision capabilities for machines, or creating low level systems, I truly enjoy the gratification of creating something of your own.
+<h1 align="center">Thomas Worrall</h1>
 <p align="center">
-  <a href="https://linkedin.com/in/teworrall">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="LinkedIn">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=elwo412&style=for-the-badge&color=blue" alt="elwo412's profile views" />
+  <b>Software Engineer &bull; Distributed Systems &amp; Full-Stack Development</b><br/>
+  <i>Building high‑scale services with ASP.NET Core, Spring Boot, and Python.</i>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/teworrall">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:thomas@worrall.dev">
+    <img src="https://img.shields.io/badge/email-elliottworrall@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=elwo412&style=for-the-badge&color=0A66C2" alt="profile views"/>
+</p>
+
+---
+
+## 🚀 About Me
+- **2 years shipping production code** at large enterprise scale (10M+ MAU, 1K RPS services).  
+- **Primary domain:** cloud‑native .NET, C#, and distributed systems; think _K8s_, _gRPC_, _Event‑Driven_ architectures.  
+- **Machine Learning Experience:** computer vision pipelines in PyTorch, on‑device inference for embedded devices.  
+- I’m happiest reducing P95 latency, mentoring engineers, and automating _all the things_.
+
+---
+
+## 🛠️ Tech Stack
+
+|  |  |
+|----------|--------|
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **Frameworks &amp; Front‑End** | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=.NET&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white) |
+| **Cloud &amp; Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white) ![Azure Functions](https://img.shields.io/badge/Azure Functions-0062AD?style=flat&logo=azurefunctions&logoColor=white) |
+| **Data &amp; ML** | ![Cosmos DB](https://img.shields.io/badge/Cosmos DB-0064A5?style=flat&logo=azurecosmosdb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-FE7A16?style=flat&logo=apachespark&logoColor=white) ![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit‑Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging Face-FFD21F?style=flat&logo=huggingface&logoColor=black) |
+| **Ops &amp; Dev Ex** | ![Azure DevOps](https://img.shields.io/badge/Azure DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white) ![AWS CDK](https://img.shields.io/badge/AWS CDK-232F3E?style=flat&logo=amazonaws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?s)
 
 
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/elwo412)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/elwo412)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/elwo412)
-[![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/elwo412)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/elwo412)
-[![Verilog](https://img.shields.io/badge/verilog-black?style=for-the-badge&logo=v)](https://github.com/elwo412)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/elwo412)
-[![Racket](https://img.shields.io/badge/racket-black?style=for-the-badge&logo=racket)](https://github.com/elwo412)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/elwo412)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/elwo412)
+---
 
-### ML/DL
-[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/elwo412)
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/elwo412)
-[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/elwo412)
-[![TensorFlow](https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/elwo412)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/elwo412)
-[![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/elwo412)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=image%2Fpng%3Bbase64%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)](https://github.com/elwo412)
 
-### Technologies & Frameworks
-[![GStreamer](https://img.shields.io/badge/gstreamer-black?style=for-the-badge&logo=gstreamer)](https://github.com/elwo412)
-[![OpenCV](https://img.shields.io/badge/opencv-black?style=for-the-badge&logo=opencv)](https://github.com/elwo412)
-[![Pari GP](https://img.shields.io/badge/pari%20gp-black?style=for-the-badge&logo=data:image/svg+xml;base64,IDxzdmcgIHZlcnNpb249IjEuMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiAgd2lkdGg9IjYwLjAwMDAwMHB0IiBoZWlnaHQ9IjgyLjAwMDAwMHB0IiB2aWV3Qm94PSIwIDAgNjAuMDAwMDAwIDgyLjAwMDAwMCIgIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsODIuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIiBmaWxsPSIjYmYwMzAzIiBzdHJva2U9Im5vbmUiPiA8cGF0aCBkPSJNMTE4IDcxOCBjLTI1IC04IC0yOCAtMTUgLTI4IC01MyBsMCAtNDMgNDAgMTAgYzM5IDEwIDQwIDExIDQwIDU0IDAgNDcgLTUgNTAgLTUyIDMyeiIvPiA8cGF0aCBkPSJNMTk1IDQ1NCBjMyAtMTUyIDYgLTI3OCA3IC0yNzkgMiAtMSAyNiAtNSA1NSAtOCBsNTIgLTYgLTMyIDI4IGMtMjggMjYgLTMyIDM1IC0zNSA5NyAtMyA2OCAxMCAxMTMgMzQgMTIxIDE4IDYgMjQgLTM4IDggLTYxIC00NyAtNjggMzQgLTE3NiA5MSAtMTIwIDIyIDIyIDE3IDExNyAtNiAxMjIgLTEyIDIgLTE1IC00IC0xMSAtMjkgNCAtMjYgMiAtMzAgLTE0IC0yNyAtMTUgMyAtMTggMTEgLTE1IDU4IDEgMzAgMyA1NiA0IDU2IDEgMSAxNiAwIDMzIC0zIDM4IC02IDU0IC00NCA1NCAtMTI3IDAgLTY3IC0xMCAtOTAgLTQ4IC0xMTAgbC0yNyAtMTUgNDIgLTEgYzIzIDAgNDggLTMgNTcgLTYgMTQgLTYgMTYgMjEgMTYgMjU5IGwwIDI2NSAtNjUgMTYgYy04MSAyMCAtODIgMjAgLTYwIC00IDExIC0xMyAyMCAtNDMgMjQgLTgyIDYgLTYwIDggLTYzIDM0IC02NiAyMyAtMyAyNyAtOCAyNyAtMzMgMCAtMjYgLTMgLTI5IC0yMCAtMjQgLTEwIDMgLTUwIDEyIC04NyAxOSBsLTY4IDEyIC0zIDgyIGMtMiA3MiAwIDg0IDE4IDEwMiAxMiAxMiAyMCAyMyAxOCAyNCAtMSAyIC0yMiA2IC00NSAxMCBsLTQyIDYgNCAtMjc2eiBtMjI1IDEzOSBjMCAtMjggLTMgLTM0IC0xMCAtMjMgLTEzIDIwIC0xMyA2MCAwIDYwIDYgMCAxMCAtMTcgMTAgLTM3eiBtLTk3IC0xNDUgYzI3IC0xNCAxNSAtMjAgLTQzIC0yMyAtNDcgLTMgLTUwIC0yIC01MCAyMiAwIDI0IDIgMjUgMzcgMTggMjEgLTQgNDYgLTExIDU2IC0xN3oiLz4gPHBhdGggZD0iTTI3NCA2MzYgYy0zIC04IC00IC0yOSAtMiAtNDcgMiAtMjYgOSAtMzQgMzEgLTQwIDI2IC03IDI3IC02IDI3IDMxIDAgMjEgLTMgNDUgLTYgNTQgLTggMjAgLTQzIDIxIC01MCAyeiIvPiA8cGF0aCBkPSJNMyA1MzAgYzAgLTQ3IDIgLTY2IDQgLTQyIDIgMjMgMiA2MSAwIDg1IC0yIDIzIC00IDQgLTQgLTQzeiIvPiA8cGF0aCBkPSJNMTE4IDYwMyBsLTI4IC00IDAgLTIxNSAwIC0yMTUgMzggMyAzNyAzIDMgMjE4IGMyIDE3MSAwIDIxNyAtMTAgMjE2IC03IC0xIC0yNSAtNCAtNDAgLTZ6Ii8+IDxwYXRoIGQ9Ik0wIDE5OCBjMCAtMjcgNCAtMzggMTUgLTM4IDE4IDAgMTggMCAwIDQxIGwtMTQgMzQgLTEgLTM3eiIvPiA8L2c+IDwvc3ZnPiA=)](https://github.com/elwo412)
-[![GTK](https://img.shields.io/badge/gtk-black?style=for-the-badge&logo=gtk)](https://github.com/elwo412)
-[![GLib](https://img.shields.io/badge/glib-black?style=for-the-badge&logo=glib)](https://github.com/elwo412)
-[![Qt](https://img.shields.io/badge/qt-black?style=for-the-badge&logo=qt)](https://github.com/elwo412)
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/elwo412)
-[![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)](https://github.com/elwo412)
-[![Xamarin](https://img.shields.io/badge/xamarin-black?style=for-the-badge&logo=xamarin)](https://github.com/elwo412)
-[![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/elwo412)
+
+<!-- Manual pin via GitHub UI, then embed: -->
+<a href="https://github.com/<USERNAME>/<REPO>">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elwo412&repo=Focusrite-rPi-interface&theme=transparent" />
+</a>
+<!-- Repeat for each pinned repo -->
+
+
+---
 
 <details>
 <p align="center">
@@ -58,8 +63,9 @@ Whether it's discerning patterns in data, developing vision capabilities for mac
   </a>
 </p>
 </details>
+---
 
-Feel free to explore and don't hesitate to reach out if you have any questions!
+### Let’s Collaborate
+If you’re tackling massive throughput, low‑latency ML inference, or just want to deep-dive on .NET internals—**DM me**. Always up for pairing on a tough bug or white‑boarding a new architecture.
 
-
-
+<p align="center"><em>— Less talk, more ship 🚢 —</em></p>
